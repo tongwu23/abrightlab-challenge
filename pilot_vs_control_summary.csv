@@ -1,0 +1,5 @@
+metro,sites,churned,vendors_before,vendors_after,loss_sites_before,loss_sites_after,monthly_loss_before,monthly_loss_after,gm_before,gm_after,avg_travel_mi_before
+Atlanta,220,7,9,6,105,4,45235,614,-0.001,0.3,13.2
+Dallas,210,3,8,6,95,10,43625,1711,0.007,0.286,11.5
+Charlotte,180,0,4,4,25,25,6274,6274,0.2,0.2,8.6
+Phoenix,190,0,4,4,19,19,6991,6991,0.212,0.212,8.0

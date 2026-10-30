@@ -1,0 +1,543 @@
+location_id,metro,site_type,sqft,customer_price_mo,vendor_invoice_mo,margin_mo,primary_cause,all_causes,recommended_fix,leakage_mo
+L0114,Atlanta,Medical,8690.0,2262.0,5022.0,-2760.0,Vendor overpriced / under-delivering,Underpriced; Vendor too far; Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,4068.0
+L0345,Dallas,Retail,5650.0,1184.0,3814.0,-2630.0,Vendor too far,Underpriced; Over-frequency; Vendor too far,Reassign to nearest zone vendor (cluster),3677.0
+L0254,Dallas,Retail,19370.0,5184.0,7306.0,-2122.0,Over-frequency,Over-frequency; Vendor too far,Align schedule to contract / need (inspection-driven),3537.0
+L0880,Chicago,Retail,7060.0,1636.0,3724.0,-2088.0,Over-frequency,Underpriced; Over-frequency; Vendor too far,Align schedule to contract / need (inspection-driven),3036.0
+L0236,Dallas,Restaurant,6110.0,1832.0,3675.0,-1843.0,Over-frequency,Underpriced; Over-frequency; Vendor overpriced / under-delivering,Align schedule to contract / need (inspection-driven),2964.0
+L1077,Denver,Medical,8420.0,2211.0,4013.0,-1802.0,Over-frequency,Underpriced; Over-frequency,Align schedule to contract / need (inspection-driven),2649.0
+L1748,Non-metro,Retail,7570.0,1408.0,3021.0,-1613.0,"Scope creep, not billed","Underpriced; Scope creep, not billed; Remote site",Bill added scope as change orders; lock scope in Peazy,2186.0
+L0166,Atlanta,Office,1640.0,717.0,2294.0,-1577.0,Vendor too far,Over-frequency; Vendor too far,Reassign to nearest zone vendor (cluster),2278.0
+L0348,Dallas,Office,5820.0,1899.0,3473.0,-1574.0,Over-frequency,"Scope creep, not billed; Over-frequency",Align schedule to contract / need (inspection-driven),2596.0
+L0247,Dallas,Restaurant,4060.0,1407.0,2911.0,-1504.0,Vendor too far,Underpriced; Vendor too far,Reassign to nearest zone vendor (cluster),2054.0
+L1900,Non-metro,Retail,5400.0,1502.0,3002.0,-1500.0,Remote site,Over-frequency; Remote site,Travel surcharge or bundle into a route; exit if still negative,2290.0
+L0069,Atlanta,Bank branch,6840.0,1227.0,2685.0,-1458.0,Over-frequency,Over-frequency; Vendor too far,Align schedule to contract / need (inspection-driven),2115.0
+L0245,Dallas,Office,3370.0,1210.0,2646.0,-1436.0,Vendor too far,Over-frequency; Vendor too far,Reassign to nearest zone vendor (cluster),2184.0
+L0242,Dallas,Restaurant,4650.0,2122.0,3532.0,-1410.0,Over-frequency,Over-frequency; Vendor too far,Align schedule to contract / need (inspection-driven),2119.0
+L0186,Atlanta,Medical,3330.0,1004.0,2383.0,-1379.0,Vendor too far,Underpriced; Vendor too far,Reassign to nearest zone vendor (cluster),1758.0
+L0397,Dallas,Medical,10980.0,2731.0,4102.0,-1371.0,Underpriced,"Underpriced; Scope creep, not billed",Reprice at renewal to benchmark (wage x sqft x frequency),2471.0
+L0314,Dallas,Retail,8400.0,1531.0,2845.0,-1314.0,Underpriced,Underpriced; Vendor overpriced / under-delivering,Reprice at renewal to benchmark (wage x sqft x frequency),1892.0
+L0299,Dallas,Retail,7000.0,2397.0,3696.0,-1299.0,"Scope creep, not billed","Scope creep, not billed; Vendor overpriced / under-delivering",Bill added scope as change orders; lock scope in Peazy,2473.0
+L1833,Non-metro,Retail,3720.0,1147.0,2438.0,-1291.0,Remote site,Over-frequency; Remote site,Travel surcharge or bundle into a route; exit if still negative,2048.0
+L0344,Dallas,Retail,8510.0,1809.0,3082.0,-1273.0,"Scope creep, not billed","Underpriced; Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,1821.0
+L1841,Non-metro,Restaurant,5800.0,1621.0,2878.0,-1257.0,Remote site,Underpriced; Remote site,Travel surcharge or bundle into a route; exit if still negative,1852.0
+L0108,Atlanta,Retail,2730.0,684.0,1928.0,-1244.0,Vendor too far,"Underpriced; Scope creep, not billed; Vendor too far",Reassign to nearest zone vendor (cluster),1481.0
+L1727,Non-metro,Office,11080.0,2037.0,3273.0,-1236.0,"Scope creep, not billed","Underpriced; Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,1925.0
+L1706,Non-metro,Restaurant,2840.0,1253.0,2481.0,-1228.0,Remote site,Over-frequency; Remote site,Travel surcharge or bundle into a route; exit if still negative,1881.0
+L0019,Atlanta,Retail,4350.0,939.0,2164.0,-1225.0,Vendor too far,Underpriced; Vendor too far,Reassign to nearest zone vendor (cluster),1571.0
+L1853,Non-metro,Restaurant,2700.0,1233.0,2457.0,-1224.0,Remote site,Remote site; Vendor overpriced / under-delivering,Travel surcharge or bundle into a route; exit if still negative,1599.0
+L1776,Non-metro,Bank branch,6070.0,910.0,2118.0,-1208.0,Over-frequency,Over-frequency; Remote site,Align schedule to contract / need (inspection-driven),1663.0
+L0381,Dallas,Medical,3940.0,1594.0,2753.0,-1159.0,Vendor too far,Vendor too far; Vendor overpriced / under-delivering,Reassign to nearest zone vendor (cluster),1532.0
+L1719,Non-metro,Retail,2250.0,702.0,1851.0,-1149.0,Remote site,Over-frequency; Remote site,Travel surcharge or bundle into a route; exit if still negative,1611.0
+L0123,Atlanta,Restaurant,4510.0,1589.0,2706.0,-1117.0,Vendor too far,Underpriced; Vendor too far,Reassign to nearest zone vendor (cluster),1573.0
+L0169,Atlanta,Medical,3010.0,937.0,2024.0,-1087.0,Vendor too far,Underpriced; Vendor too far,Reassign to nearest zone vendor (cluster),1412.0
+L0048,Atlanta,Medical,4660.0,1850.0,2935.0,-1085.0,Vendor too far,"Scope creep, not billed; Vendor too far",Reassign to nearest zone vendor (cluster),1519.0
+L1676,Non-metro,Retail,4860.0,1533.0,2614.0,-1081.0,Remote site,Over-frequency; Remote site,Travel surcharge or bundle into a route; exit if still negative,1817.0
+L0095,Atlanta,Restaurant,2070.0,1227.0,2273.0,-1046.0,Vendor too far,"Scope creep, not billed; Vendor too far",Reassign to nearest zone vendor (cluster),1322.0
+L0378,Dallas,Restaurant,2480.0,1482.0,2526.0,-1044.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),1471.0
+L0085,Atlanta,Medical,3600.0,838.0,1865.0,-1027.0,Underpriced,"Underpriced; Scope creep, not billed",Reprice at renewal to benchmark (wage x sqft x frequency),1303.0
+L1582,Nashville,Bank branch,10110.0,1035.0,2048.0,-1013.0,Underpriced,Underpriced; Vendor overpriced / under-delivering,Reprice at renewal to benchmark (wage x sqft x frequency),1317.0
+L0134,Atlanta,Retail,3440.0,761.0,1770.0,-1009.0,Vendor too far,Underpriced; Vendor too far,Reassign to nearest zone vendor (cluster),1369.0
+L0215,Atlanta,Restaurant,6040.0,2652.0,3646.0,-994.0,Vendor too far,"Scope creep, not billed; Vendor too far",Reassign to nearest zone vendor (cluster),1598.0
+L0537,Charlotte,Bank branch,11550.0,2004.0,2972.0,-968.0,Unexplained,,,0.0
+L1392,Orlando,Retail,16810.0,4864.0,5819.0,-955.0,Over-frequency,Over-frequency,Align schedule to contract / need (inspection-driven),2182.0
+L0785,Phoenix,Restaurant,5560.0,2719.0,3666.0,-947.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),1604.0
+L0042,Atlanta,Retail,5950.0,1206.0,2098.0,-892.0,Vendor overpriced / under-delivering,Underpriced; Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,1423.0
+L0391,Dallas,Office,4110.0,781.0,1656.0,-875.0,Underpriced,Underpriced; Vendor overpriced / under-delivering,Reprice at renewal to benchmark (wage x sqft x frequency),1125.0
+L1693,Non-metro,Restaurant,2100.0,962.0,1834.0,-872.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,1101.0
+L1370,Orlando,Office,5930.0,1015.0,1874.0,-859.0,Underpriced,Underpriced; Vendor overpriced / under-delivering,Reprice at renewal to benchmark (wage x sqft x frequency),1306.0
+L1922,Non-metro,Restaurant,2920.0,1334.0,2190.0,-856.0,Remote site,"Scope creep, not billed; Remote site",Travel surcharge or bundle into a route; exit if still negative,1204.0
+L0129,Atlanta,Medical,7770.0,1608.0,2460.0,-852.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),1371.0
+L0046,Atlanta,Retail,6560.0,1243.0,2067.0,-824.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),879.0
+L1730,Non-metro,Bank branch,3800.0,648.0,1463.0,-815.0,Over-frequency,Over-frequency; Remote site,Align schedule to contract / need (inspection-driven),1152.0
+L0208,Atlanta,Medical,7200.0,2074.0,2887.0,-813.0,Over-frequency,Underpriced; Over-frequency,Align schedule to contract / need (inspection-driven),1329.0
+L0591,Charlotte,Bank branch,5000.0,671.0,1484.0,-813.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),255.0
+L0413,Dallas,Retail,3400.0,1222.0,2018.0,-796.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),1060.0
+L1717,Non-metro,Medical,8520.0,2394.0,3188.0,-794.0,"Scope creep, not billed","Scope creep, not billed; Remote site",Bill added scope as change orders; lock scope in Peazy,1379.0
+L0326,Dallas,Retail,4470.0,1449.0,2225.0,-776.0,Vendor overpriced / under-delivering,"Scope creep, not billed; Vendor overpriced / under-delivering",Pay geofence-verified hours + quality bonus; rebid,1400.0
+L0088,Atlanta,Retail,4390.0,1573.0,2348.0,-775.0,Vendor too far,"Scope creep, not billed; Vendor too far; Vendor overpriced / under-delivering",Reassign to nearest zone vendor (cluster),1833.0
+L0241,Dallas,Retail,4940.0,1026.0,1797.0,-771.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),524.0
+L1775,Non-metro,Retail,4330.0,978.0,1745.0,-767.0,Remote site,Underpriced; Remote site,Travel surcharge or bundle into a route; exit if still negative,1123.0
+L1471,Orlando,Restaurant,9040.0,2017.0,2778.0,-761.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),1409.0
+L0182,Atlanta,Medical,4320.0,1314.0,2070.0,-756.0,"Scope creep, not billed","Underpriced; Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,1081.0
+L1919,Non-metro,Office,12930.0,2062.0,2812.0,-750.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),1350.0
+L1889,Non-metro,Restaurant,3690.0,1580.0,2330.0,-750.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,1102.0
+L1019,Denver,Bank branch,6140.0,1231.0,1969.0,-738.0,Vendor too far,Vendor too far; Vendor overpriced / under-delivering,Reassign to nearest zone vendor (cluster),973.0
+L0091,Atlanta,Retail,2790.0,702.0,1437.0,-735.0,Vendor too far,"Underpriced; Scope creep, not billed; Vendor too far",Reassign to nearest zone vendor (cluster),1008.0
+L1415,Orlando,Restaurant,3790.0,1759.0,2494.0,-735.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),1246.0
+L0006,Atlanta,Retail,3250.0,1208.0,1939.0,-731.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),1035.0
+L0376,Dallas,Bank branch,8670.0,1561.0,2268.0,-707.0,"Scope creep, not billed","Scope creep, not billed; Vendor too far",Bill added scope as change orders; lock scope in Peazy,1088.0
+L1954,Non-metro,Retail,7520.0,1958.0,2658.0,-700.0,Remote site,Remote site; Vendor overpriced / under-delivering,Travel surcharge or bundle into a route; exit if still negative,1108.0
+L0664,Phoenix,Retail,4180.0,888.0,1584.0,-696.0,Underpriced,"Underpriced; Scope creep, not billed",Reprice at renewal to benchmark (wage x sqft x frequency),1203.0
+L0179,Atlanta,Medical,6300.0,2305.0,2995.0,-690.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),1160.0
+L0390,Dallas,Office,4920.0,1562.0,2248.0,-686.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),1055.0
+L1894,Non-metro,Medical,2500.0,974.0,1659.0,-685.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,942.0
+L1804,Non-metro,Restaurant,6190.0,2429.0,3113.0,-684.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,1151.0
+L0097,Atlanta,Retail,3430.0,1241.0,1922.0,-681.0,Vendor overpriced / under-delivering,Over-frequency; Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,1173.0
+L1907,Non-metro,Retail,1720.0,620.0,1295.0,-675.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,787.0
+L0206,Atlanta,Retail,14640.0,3992.0,4662.0,-670.0,Vendor overpriced / under-delivering,Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,1383.0
+L1756,Non-metro,Restaurant,3830.0,1555.0,2222.0,-667.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,1034.0
+L0001,Atlanta,Office,3820.0,1351.0,2015.0,-664.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),920.0
+L1089,Denver,Medical,4950.0,2201.0,2864.0,-663.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),1195.0
+L1784,Non-metro,Restaurant,3620.0,1515.0,2178.0,-663.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,963.0
+L0225,Dallas,Medical,4550.0,1671.0,2328.0,-657.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),1052.0
+L1115,Denver,Retail,1500.0,832.0,1480.0,-648.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),876.0
+L1920,Non-metro,Office,6440.0,1611.0,2256.0,-645.0,Remote site,Remote site; Vendor overpriced / under-delivering,Travel surcharge or bundle into a route; exit if still negative,927.0
+L0716,Phoenix,Retail,4600.0,1595.0,2234.0,-639.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),1096.0
+L1839,Non-metro,Restaurant,2040.0,1047.0,1681.0,-634.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,918.0
+L1190,Houston,Office,8070.0,2505.0,3130.0,-625.0,Over-frequency,Over-frequency,Align schedule to contract / need (inspection-driven),1174.0
+L0226,Dallas,Bank branch,3240.0,524.0,1149.0,-625.0,Over-frequency,Underpriced; Over-frequency,Align schedule to contract / need (inspection-driven),744.0
+L0939,Chicago,Office,4310.0,1111.0,1733.0,-622.0,Underpriced,Underpriced; Vendor overpriced / under-delivering,Reprice at renewal to benchmark (wage x sqft x frequency),952.0
+L1220,Houston,Retail,3720.0,1198.0,1819.0,-621.0,"Scope creep, not billed","Scope creep, not billed; Vendor overpriced / under-delivering",Bill added scope as change orders; lock scope in Peazy,940.0
+L1679,Non-metro,Office,4730.0,769.0,1386.0,-617.0,Underpriced,Underpriced; Over-frequency,Reprice at renewal to benchmark (wage x sqft x frequency),1024.0
+L1846,Non-metro,Retail,3540.0,1090.0,1703.0,-613.0,Remote site,"Scope creep, not billed; Remote site",Travel surcharge or bundle into a route; exit if still negative,948.0
+L1914,Non-metro,Medical,1720.0,846.0,1458.0,-612.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,858.0
+L1880,Non-metro,Retail,2410.0,756.0,1366.0,-610.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,787.0
+L0758,Phoenix,Medical,2300.0,1140.0,1748.0,-608.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),914.0
+L1767,Non-metro,Office,3050.0,985.0,1592.0,-607.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,837.0
+L0970,Chicago,Bank branch,4410.0,1102.0,1708.0,-606.0,Over-frequency,Over-frequency,Align schedule to contract / need (inspection-driven),854.0
+L1966,Non-metro,Restaurant,5070.0,1989.0,2590.0,-601.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,1121.0
+L0139,Atlanta,Office,3310.0,1163.0,1763.0,-600.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),877.0
+L1534,Nashville,Bank branch,3950.0,798.0,1398.0,-600.0,Over-frequency,"Scope creep, not billed; Over-frequency",Align schedule to contract / need (inspection-driven),1041.0
+L1729,Non-metro,Retail,2850.0,972.0,1569.0,-597.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,849.0
+L1317,Houston,Restaurant,5450.0,2335.0,2929.0,-594.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),1127.0
+L0026,Atlanta,Retail,3820.0,1352.0,1945.0,-593.0,Vendor overpriced / under-delivering,Over-frequency; Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,1131.0
+L1805,Non-metro,Restaurant,2680.0,1239.0,1821.0,-582.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,876.0
+L0054,Atlanta,Retail,5040.0,1794.0,2373.0,-579.0,Vendor too far,"Scope creep, not billed; Vendor too far",Reassign to nearest zone vendor (cluster),1078.0
+L1957,Non-metro,Restaurant,6180.0,2410.0,2981.0,-571.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,1136.0
+L0149,Atlanta,Retail,3950.0,1404.0,1968.0,-564.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),839.0
+L0425,Dallas,Medical,3430.0,1470.0,2031.0,-561.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),882.0
+L1800,Non-metro,Medical,5440.0,1917.0,2478.0,-561.0,"Scope creep, not billed","Scope creep, not billed; Remote site",Bill added scope as change orders; lock scope in Peazy,1081.0
+L1949,Non-metro,Retail,1960.0,670.0,1227.0,-557.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,706.0
+L1928,Non-metro,Retail,3210.0,1044.0,1593.0,-549.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,836.0
+L0418,Dallas,Office,2780.0,1036.0,1582.0,-546.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),768.0
+L1931,Non-metro,Restaurant,3600.0,1504.0,2047.0,-543.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,882.0
+L1795,Non-metro,Retail,1720.0,652.0,1194.0,-542.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,712.0
+L0379,Dallas,Medical,2470.0,1148.0,1684.0,-536.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),834.0
+L1828,Non-metro,Medical,3550.0,1212.0,1746.0,-534.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,763.0
+L0298,Dallas,Bank branch,6000.0,824.0,1355.0,-531.0,Vendor overpriced / under-delivering,Underpriced; Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,772.0
+L0683,Phoenix,Retail,6390.0,2068.0,2597.0,-529.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),969.0
+L1815,Non-metro,Office,3400.0,999.0,1527.0,-528.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,777.0
+L0193,Atlanta,Retail,3490.0,1223.0,1749.0,-526.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),809.0
+L0372,Dallas,Retail,8400.0,1591.0,2115.0,-524.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),1002.0
+L1140,Denver,Retail,2930.0,1133.0,1656.0,-523.0,Over-frequency,Over-frequency,Align schedule to contract / need (inspection-driven),621.0
+L1167,Houston,Office,2270.0,857.0,1380.0,-523.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),710.0
+L1083,Denver,Restaurant,8750.0,4118.0,4635.0,-517.0,Vendor overpriced / under-delivering,Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,1405.0
+L1865,Non-metro,Medical,4210.0,1467.0,1982.0,-515.0,"Scope creep, not billed","Scope creep, not billed; Over-frequency",Bill added scope as change orders; lock scope in Peazy,1108.0
+L1971,Non-metro,Retail,5640.0,1525.0,2036.0,-511.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,820.0
+L1708,Non-metro,Retail,3210.0,1037.0,1548.0,-511.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,775.0
+L0012,Atlanta,Office,7310.0,1325.0,1831.0,-506.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),913.0
+L0746,Phoenix,Medical,6380.0,2355.0,2860.0,-505.0,Vendor overpriced / under-delivering,Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,888.0
+L0098,Atlanta,Retail,10600.0,2166.0,2669.0,-503.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),1141.0
+L0662,Phoenix,Restaurant,7670.0,3489.0,3992.0,-503.0,Over-frequency,Over-frequency,Align schedule to contract / need (inspection-driven),1198.0
+L1359,Orlando,Office,9950.0,1564.0,2066.0,-502.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),1102.0
+L1505,Orlando,Medical,5870.0,2201.0,2691.0,-490.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),1046.0
+L1718,Non-metro,Office,2350.0,812.0,1300.0,-488.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,688.0
+L0279,Dallas,Restaurant,2550.0,1278.0,1765.0,-487.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),754.0
+L1916,Non-metro,Retail,3690.0,1081.0,1563.0,-482.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,761.0
+L1887,Non-metro,Bank branch,2640.0,511.0,992.0,-481.0,Over-frequency,Over-frequency; Remote site,Align schedule to contract / need (inspection-driven),753.0
+L0141,Atlanta,Retail,7810.0,2463.0,2943.0,-480.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),1008.0
+L0187,Atlanta,Retail,3310.0,1256.0,1735.0,-479.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),794.0
+L1881,Non-metro,Restaurant,4360.0,1913.0,2391.0,-478.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,986.0
+L1029,Denver,Retail,2840.0,1285.0,1762.0,-477.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),885.0
+L0374,Dallas,Medical,3100.0,841.0,1315.0,-474.0,Underpriced,Underpriced; Vendor overpriced / under-delivering,Reprice at renewal to benchmark (wage x sqft x frequency),865.0
+L1924,Non-metro,Office,2660.0,877.0,1349.0,-472.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,686.0
+L1909,Non-metro,Retail,3000.0,852.0,1320.0,-468.0,Remote site,Remote site; Vendor overpriced / under-delivering,Travel surcharge or bundle into a route; exit if still negative,625.0
+L1796,Non-metro,Medical,2630.0,1170.0,1636.0,-466.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,801.0
+L0084,Atlanta,Medical,5750.0,2072.0,2538.0,-466.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),921.0
+L0352,Dallas,Office,2070.0,489.0,953.0,-464.0,Underpriced,"Underpriced; Scope creep, not billed",Reprice at renewal to benchmark (wage x sqft x frequency),571.0
+L1683,Non-metro,Office,4500.0,1211.0,1673.0,-462.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,717.0
+L0268,Dallas,Medical,2410.0,646.0,1108.0,-462.0,Underpriced,"Underpriced; Scope creep, not billed",Reprice at renewal to benchmark (wage x sqft x frequency),719.0
+L1210,Houston,Bank branch,5020.0,983.0,1441.0,-458.0,Over-frequency,Over-frequency,Align schedule to contract / need (inspection-driven),720.0
+L0461,Charlotte,Office,4850.0,1591.0,2048.0,-457.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),950.0
+L0229,Dallas,Medical,5770.0,2279.0,2728.0,-449.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,953.0
+L1714,Non-metro,Retail,2350.0,878.0,1327.0,-449.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,709.0
+L1039,Denver,Retail,7610.0,2654.0,3103.0,-449.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,1124.0
+L1755,Non-metro,Office,3140.0,968.0,1416.0,-448.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,615.0
+L1743,Non-metro,Retail,4180.0,1277.0,1720.0,-443.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,814.0
+L1806,Non-metro,Retail,3790.0,1079.0,1522.0,-443.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,673.0
+L0317,Dallas,Office,3600.0,886.0,1329.0,-443.0,"Scope creep, not billed","Underpriced; Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,746.0
+L0238,Dallas,Office,2710.0,1012.0,1452.0,-440.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),702.0
+L0503,Charlotte,Retail,8260.0,1358.0,1797.0,-439.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),1043.0
+L0217,Atlanta,Medical,5040.0,1955.0,2390.0,-435.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),949.0
+L1697,Non-metro,Medical,4650.0,1562.0,1996.0,-434.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,846.0
+L0102,Atlanta,Retail,5100.0,1647.0,2079.0,-432.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,736.0
+L0285,Dallas,Bank branch,11410.0,1881.0,2311.0,-430.0,"Scope creep, not billed","Scope creep, not billed; Vendor overpriced / under-delivering",Bill added scope as change orders; lock scope in Peazy,1726.0
+L0968,Chicago,Retail,8660.0,1996.0,2425.0,-429.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),1110.0
+L0010,Atlanta,Retail,5930.0,1902.0,2329.0,-427.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),956.0
+L1818,Non-metro,Retail,5280.0,1327.0,1750.0,-423.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,702.0
+L1908,Non-metro,Medical,2440.0,996.0,1414.0,-418.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,694.0
+L0289,Dallas,Bank branch,3800.0,508.0,926.0,-418.0,Vendor too far,Underpriced; Vendor too far,Reassign to nearest zone vendor (cluster),603.0
+L0912,Chicago,Retail,15040.0,5135.0,5549.0,-414.0,Over-frequency,Over-frequency,Align schedule to contract / need (inspection-driven),1585.0
+L0131,Atlanta,Bank branch,3530.0,810.0,1223.0,-413.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),608.0
+L0252,Dallas,Bank branch,2670.0,358.0,770.0,-412.0,Vendor too far,Underpriced; Vendor too far,Reassign to nearest zone vendor (cluster),555.0
+L1684,Non-metro,Retail,5970.0,1624.0,2035.0,-411.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,846.0
+L1981,Non-metro,Retail,3880.0,1186.0,1597.0,-411.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,661.0
+L0550,Charlotte,Medical,3900.0,1435.0,1845.0,-410.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),714.0
+L0360,Dallas,Retail,7630.0,1379.0,1782.0,-403.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),1027.0
+L1897,Non-metro,Retail,4470.0,1282.0,1684.0,-402.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,705.0
+L1915,Non-metro,Retail,5150.0,1553.0,1953.0,-400.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,880.0
+L0295,Dallas,Office,3750.0,1314.0,1713.0,-399.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),694.0
+L1713,Non-metro,Retail,2610.0,885.0,1281.0,-396.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,618.0
+L0735,Phoenix,Medical,4320.0,960.0,1354.0,-394.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),849.0
+L0027,Atlanta,Bank branch,4270.0,876.0,1270.0,-394.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),567.0
+L1849,Non-metro,Bank branch,4790.0,778.0,1169.0,-391.0,Unexplained,,,0.0
+L1770,Non-metro,Restaurant,6620.0,2633.0,3022.0,-389.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,1110.0
+L1701,Non-metro,Bank branch,2490.0,473.0,858.0,-385.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,483.0
+L0023,Atlanta,Retail,5370.0,1751.0,2134.0,-383.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,676.0
+L1964,Non-metro,Medical,3460.0,1276.0,1656.0,-380.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,684.0
+L1820,Non-metro,Retail,5870.0,1556.0,1935.0,-379.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,762.0
+L0611,Phoenix,Office,4880.0,1595.0,1972.0,-377.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),704.0
+L1886,Non-metro,Office,6970.0,1851.0,2228.0,-377.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,782.0
+L1306,Houston,Office,7650.0,2261.0,2635.0,-374.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,870.0
+L1959,Non-metro,Retail,2180.0,768.0,1140.0,-372.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,592.0
+L0132,Atlanta,Restaurant,5220.0,2622.0,2993.0,-371.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),1064.0
+L0240,Dallas,Restaurant,2610.0,810.0,1178.0,-368.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),539.0
+L0367,Dallas,Bank branch,3760.0,744.0,1112.0,-368.0,"Scope creep, not billed","Scope creep, not billed; Vendor overpriced / under-delivering",Bill added scope as change orders; lock scope in Peazy,704.0
+L1836,Non-metro,Restaurant,3610.0,1548.0,1913.0,-365.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,717.0
+L1837,Non-metro,Medical,4060.0,1331.0,1695.0,-364.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,608.0
+L0258,Dallas,Restaurant,7010.0,3185.0,3545.0,-360.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),1250.0
+L1890,Non-metro,Retail,4650.0,1307.0,1663.0,-356.0,Remote site,"Scope creep, not billed; Remote site",Travel surcharge or bundle into a route; exit if still negative,734.0
+L1861,Non-metro,Office,2430.0,814.0,1164.0,-350.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,579.0
+L1680,Non-metro,Restaurant,3290.0,1362.0,1710.0,-348.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,657.0
+L1452,Orlando,Office,4780.0,1538.0,1884.0,-346.0,Over-frequency,Over-frequency,Align schedule to contract / need (inspection-driven),706.0
+L1687,Non-metro,Office,3080.0,910.0,1252.0,-342.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,530.0
+L1990,Non-metro,Retail,3270.0,1014.0,1355.0,-341.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,606.0
+L1761,Non-metro,Medical,5140.0,1720.0,2060.0,-340.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,778.0
+L0364,Dallas,Office,7500.0,2338.0,2678.0,-340.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),1034.0
+L0192,Atlanta,Retail,3050.0,1174.0,1512.0,-338.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),629.0
+L1391,Orlando,Office,7180.0,1999.0,2336.0,-337.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,891.0
+L0235,Dallas,Office,6860.0,1373.0,1710.0,-337.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),736.0
+L1455,Orlando,Retail,2680.0,965.0,1302.0,-337.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),626.0
+L1482,Orlando,Medical,2730.0,601.0,937.0,-336.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),525.0
+L0837,Chicago,Bank branch,3890.0,958.0,1294.0,-336.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),582.0
+L1154,Denver,Retail,5260.0,1320.0,1655.0,-335.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),693.0
+L1840,Non-metro,Office,3960.0,1168.0,1502.0,-334.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,683.0
+L0280,Dallas,Retail,3950.0,1378.0,1711.0,-333.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,560.0
+L0626,Phoenix,Restaurant,4870.0,1431.0,1763.0,-332.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),837.0
+L1813,Non-metro,Medical,3940.0,1428.0,1760.0,-332.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,662.0
+L1777,Non-metro,Bank branch,3130.0,605.0,935.0,-330.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,487.0
+L0800,Chicago,Bank branch,4520.0,1042.0,1371.0,-329.0,Over-frequency,Over-frequency,Align schedule to contract / need (inspection-driven),548.0
+L0339,Dallas,Restaurant,3170.0,1646.0,1975.0,-329.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),793.0
+L0124,Atlanta,Office,2990.0,652.0,972.0,-320.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),470.0
+L1716,Non-metro,Retail,7710.0,1897.0,2214.0,-317.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,815.0
+L1832,Non-metro,Retail,4460.0,1321.0,1637.0,-316.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,736.0
+L1118,Denver,Office,7990.0,1745.0,2053.0,-308.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),1040.0
+L0321,Dallas,Retail,5430.0,1878.0,2186.0,-308.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),848.0
+L1979,Non-metro,Bank branch,4060.0,732.0,1040.0,-308.0,"Scope creep, not billed","Scope creep, not billed; Remote site",Bill added scope as change orders; lock scope in Peazy,482.0
+L0000,Atlanta,Office,5530.0,1969.0,2276.0,-307.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),792.0
+L0312,Dallas,Restaurant,6730.0,1802.0,2107.0,-305.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),1163.0
+L0630,Phoenix,Medical,3670.0,1604.0,1906.0,-302.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),727.0
+L1860,Non-metro,Office,6200.0,1781.0,2083.0,-302.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,775.0
+L0553,Charlotte,Bank branch,3330.0,670.0,972.0,-302.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),461.0
+L1911,Non-metro,Office,7180.0,1931.0,2233.0,-302.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,730.0
+L0309,Dallas,Office,7860.0,2334.0,2635.0,-301.0,Vendor too far,Vendor too far; Vendor overpriced / under-delivering,Reassign to nearest zone vendor (cluster),1517.0
+L0209,Atlanta,Retail,3840.0,788.0,1089.0,-301.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),545.0
+L1789,Non-metro,Bank branch,2990.0,582.0,882.0,-300.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,431.0
+L0074,Atlanta,Restaurant,4820.0,2320.0,2619.0,-299.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,1011.0
+L0087,Atlanta,Office,7870.0,1476.0,1774.0,-298.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),894.0
+L0028,Atlanta,Office,4780.0,1108.0,1403.0,-295.0,Underpriced,"Underpriced; Scope creep, not billed",Reprice at renewal to benchmark (wage x sqft x frequency),840.0
+L1867,Non-metro,Bank branch,3790.0,701.0,996.0,-295.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,451.0
+L1232,Houston,Restaurant,5660.0,2511.0,2806.0,-295.0,Vendor overpriced / under-delivering,Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,772.0
+L1988,Non-metro,Office,5000.0,1346.0,1640.0,-294.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,554.0
+L0284,Dallas,Retail,6340.0,1210.0,1504.0,-294.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),817.0
+L1655,Nashville,Retail,5740.0,1079.0,1369.0,-290.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),709.0
+L1854,Non-metro,Bank branch,7620.0,1145.0,1433.0,-288.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,496.0
+L1809,Non-metro,Bank branch,4170.0,530.0,818.0,-288.0,"Scope creep, not billed","Underpriced; Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,425.0
+L1328,Houston,Retail,10650.0,2871.0,3158.0,-287.0,Over-frequency,Over-frequency,Align schedule to contract / need (inspection-driven),902.0
+L1429,Orlando,Medical,5770.0,1126.0,1412.0,-286.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),874.0
+L0040,Atlanta,Retail,9440.0,2905.0,3188.0,-283.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),1003.0
+L1673,Non-metro,Bank branch,4990.0,765.0,1047.0,-282.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,449.0
+L1594,Nashville,Office,8500.0,2546.0,2827.0,-281.0,Vendor overpriced / under-delivering,Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,908.0
+L0111,Atlanta,Office,2480.0,605.0,885.0,-280.0,Underpriced,Underpriced; Vendor overpriced / under-delivering,Reprice at renewal to benchmark (wage x sqft x frequency),551.0
+L0377,Dallas,Bank branch,12210.0,1353.0,1631.0,-278.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),741.0
+L1678,Non-metro,Office,3030.0,991.0,1268.0,-277.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,477.0
+L1967,Non-metro,Retail,6270.0,1638.0,1914.0,-276.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,671.0
+L1709,Non-metro,Restaurant,3490.0,1452.0,1728.0,-276.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,711.0
+L0308,Dallas,Retail,4800.0,871.0,1145.0,-274.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),647.0
+L0104,Atlanta,Restaurant,3060.0,1748.0,2020.0,-272.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,580.0
+L0041,Atlanta,Restaurant,7680.0,2490.0,2760.0,-270.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),795.0
+L0301,Dallas,Bank branch,2090.0,516.0,785.0,-269.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),400.0
+L1810,Non-metro,Retail,3700.0,1182.0,1451.0,-269.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,537.0
+L1982,Non-metro,Office,1500.0,627.0,895.0,-268.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,426.0
+L0105,Atlanta,Office,4440.0,1537.0,1804.0,-267.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,540.0
+L0157,Atlanta,Retail,6900.0,2182.0,2449.0,-267.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,810.0
+L1989,Non-metro,Office,6490.0,1873.0,2140.0,-267.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,695.0
+L0946,Chicago,Office,4230.0,1692.0,1959.0,-267.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,573.0
+L0015,Atlanta,Retail,6580.0,1396.0,1662.0,-266.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),717.0
+L1677,Non-metro,Retail,8020.0,2237.0,2502.0,-265.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,802.0
+L0067,Atlanta,Bank branch,9680.0,1043.0,1308.0,-265.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),659.0
+L0450,Charlotte,Bank branch,2580.0,604.0,868.0,-264.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),427.0
+L1943,Non-metro,Bank branch,5540.0,978.0,1239.0,-261.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,528.0
+L1236,Houston,Retail,3650.0,930.0,1190.0,-260.0,Over-frequency,Underpriced; Over-frequency,Align schedule to contract / need (inspection-driven),652.0
+L0032,Atlanta,Retail,7400.0,2432.0,2692.0,-260.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,970.0
+L1830,Non-metro,Restaurant,6340.0,2363.0,2622.0,-259.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,658.0
+L0324,Dallas,Office,4140.0,1469.0,1726.0,-257.0,Over-frequency,Over-frequency,Align schedule to contract / need (inspection-driven),493.0
+L1483,Orlando,Office,4880.0,1402.0,1659.0,-257.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),519.0
+L1234,Houston,Office,4390.0,1492.0,1749.0,-257.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),659.0
+L0437,Charlotte,Office,4120.0,1354.0,1611.0,-257.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),519.0
+L1780,Non-metro,Retail,4590.0,1223.0,1480.0,-257.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,526.0
+L1976,Non-metro,Office,6740.0,1839.0,2095.0,-256.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,749.0
+L1695,Non-metro,Retail,4560.0,1169.0,1425.0,-256.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,466.0
+L0304,Dallas,Retail,3450.0,750.0,1005.0,-255.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),466.0
+L1623,Nashville,Restaurant,5680.0,2569.0,2824.0,-255.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),943.0
+L1827,Non-metro,Bank branch,2300.0,480.0,734.0,-254.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,383.0
+L0571,Charlotte,Retail,3310.0,715.0,969.0,-254.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),448.0
+L0011,Atlanta,Retail,7790.0,2317.0,2570.0,-253.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),818.0
+L1221,Houston,Office,7930.0,2418.0,2669.0,-251.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),904.0
+L0532,Charlotte,Retail,7900.0,2325.0,2575.0,-250.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),872.0
+L1347,Houston,Retail,4810.0,857.0,1107.0,-250.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),668.0
+L0218,Atlanta,Retail,5670.0,1719.0,1968.0,-249.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),686.0
+L1001,Denver,Bank branch,5330.0,1198.0,1444.0,-246.0,Over-frequency,Over-frequency,Align schedule to contract / need (inspection-driven),578.0
+L1735,Non-metro,Restaurant,7800.0,2980.0,3225.0,-245.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,1031.0
+L0078,Atlanta,Medical,5140.0,2057.0,2301.0,-244.0,Over-frequency,Over-frequency,Align schedule to contract / need (inspection-driven),767.0
+L1710,Non-metro,Restaurant,3440.0,1629.0,1871.0,-242.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,652.0
+L1110,Denver,Office,4800.0,1834.0,2073.0,-239.0,Over-frequency,Over-frequency,Align schedule to contract / need (inspection-driven),592.0
+L0024,Atlanta,Bank branch,2750.0,446.0,682.0,-236.0,Underpriced,"Underpriced; Scope creep, not billed",Reprice at renewal to benchmark (wage x sqft x frequency),384.0
+L0168,Atlanta,Bank branch,4700.0,530.0,766.0,-236.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),387.0
+L1394,Orlando,Bank branch,3340.0,721.0,957.0,-236.0,Unexplained,,,0.0
+L0035,Atlanta,Bank branch,3100.0,712.0,947.0,-235.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),427.0
+L1726,Non-metro,Bank branch,3660.0,719.0,954.0,-235.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,428.0
+L0055,Atlanta,Restaurant,6720.0,3109.0,3344.0,-235.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,892.0
+L0464,Charlotte,Office,6280.0,1250.0,1483.0,-233.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),611.0
+L1929,Non-metro,Medical,3760.0,1302.0,1534.0,-232.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,567.0
+L1000,Denver,Bank branch,6250.0,1370.0,1601.0,-231.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,579.0
+L0237,Dallas,Restaurant,4850.0,2098.0,2329.0,-231.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),732.0
+L0130,Atlanta,Bank branch,10990.0,1169.0,1399.0,-230.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),765.0
+L1685,Non-metro,Retail,8820.0,2195.0,2423.0,-228.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,826.0
+L1855,Non-metro,Bank branch,5190.0,884.0,1112.0,-228.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,496.0
+L0538,Charlotte,Bank branch,9930.0,1618.0,1842.0,-224.0,Vendor overpriced / under-delivering,Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,488.0
+L1786,Non-metro,Bank branch,4650.0,870.0,1093.0,-223.0,Remote site,"Scope creep, not billed; Remote site",Travel surcharge or bundle into a route; exit if still negative,446.0
+L0341,Dallas,Medical,3380.0,1063.0,1284.0,-221.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),435.0
+L0644,Phoenix,Restaurant,3100.0,1294.0,1513.0,-219.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),395.0
+L0082,Atlanta,Bank branch,7090.0,1438.0,1655.0,-217.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),641.0
+L0975,Chicago,Retail,5400.0,1222.0,1438.0,-216.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),803.0
+L1771,Non-metro,Restaurant,7010.0,2463.0,2677.0,-214.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,756.0
+L0296,Dallas,Office,5200.0,1692.0,1905.0,-213.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),644.0
+L1980,Non-metro,Office,2250.0,747.0,960.0,-213.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,381.0
+L1739,Non-metro,Bank branch,3200.0,578.0,791.0,-213.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,359.0
+L1872,Non-metro,Office,3750.0,1176.0,1389.0,-213.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,527.0
+L1974,Non-metro,Medical,3090.0,687.0,899.0,-212.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),477.0
+L0136,Atlanta,Retail,3460.0,763.0,974.0,-211.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),480.0
+L1489,Orlando,Bank branch,6760.0,706.0,916.0,-210.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),526.0
+L1466,Orlando,Retail,9820.0,3067.0,3274.0,-207.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,1096.0
+L0264,Dallas,Bank branch,3620.0,799.0,1005.0,-206.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),410.0
+L0354,Dallas,Retail,5510.0,1771.0,1976.0,-205.0,Vendor overpriced / under-delivering,"Scope creep, not billed; Vendor overpriced / under-delivering",Pay geofence-verified hours + quality bonus; rebid,1309.0
+L0333,Dallas,Office,5130.0,1561.0,1765.0,-204.0,Vendor overpriced / under-delivering,Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,386.0
+L0122,Atlanta,Retail,3590.0,831.0,1034.0,-203.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),411.0
+L1899,Non-metro,Retail,2140.0,764.0,966.0,-202.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,426.0
+L1157,Denver,Bank branch,5700.0,1221.0,1422.0,-201.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),485.0
+L0117,Atlanta,Retail,12420.0,2661.0,2862.0,-201.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),1192.0
+L1495,Orlando,Retail,3750.0,746.0,946.0,-200.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),435.0
+L1936,Non-metro,Restaurant,7390.0,2713.0,2912.0,-199.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,874.0
+L0068,Atlanta,Medical,3620.0,1712.0,1910.0,-198.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),716.0
+L0316,Dallas,Office,6290.0,1338.0,1536.0,-198.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),625.0
+L1933,Non-metro,Office,2950.0,970.0,1166.0,-196.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,459.0
+L0216,Atlanta,Retail,9080.0,2888.0,3083.0,-195.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,1094.0
+L1765,Non-metro,Retail,3870.0,1162.0,1357.0,-195.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,549.0
+L0311,Dallas,Office,3970.0,847.0,1041.0,-194.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),562.0
+L0751,Phoenix,Bank branch,2450.0,621.0,815.0,-194.0,Over-frequency,Over-frequency,Align schedule to contract / need (inspection-driven),408.0
+L1127,Denver,Retail,9390.0,3185.0,3379.0,-194.0,Vendor overpriced / under-delivering,Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,931.0
+L0090,Atlanta,Retail,5520.0,1820.0,2014.0,-194.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,609.0
+L0689,Phoenix,Restaurant,4280.0,2060.0,2253.0,-193.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,698.0
+L1994,Non-metro,Retail,4800.0,1463.0,1656.0,-193.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,566.0
+L0985,Chicago,Retail,5420.0,1445.0,1637.0,-192.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),634.0
+L0269,Dallas,Restaurant,3820.0,1958.0,2150.0,-192.0,Vendor overpriced / under-delivering,Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,616.0
+L0066,Atlanta,Office,6760.0,2334.0,2525.0,-191.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),886.0
+L0927,Chicago,Retail,3230.0,836.0,1027.0,-191.0,Underpriced,Underpriced; Vendor overpriced / under-delivering,Reprice at renewal to benchmark (wage x sqft x frequency),821.0
+L1763,Non-metro,Medical,4290.0,1665.0,1856.0,-191.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,665.0
+L1413,Orlando,Retail,3830.0,1250.0,1440.0,-190.0,Over-frequency,Over-frequency,Align schedule to contract / need (inspection-driven),411.0
+L0261,Dallas,Bank branch,4500.0,940.0,1128.0,-188.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,366.0
+L0429,Dallas,Office,5130.0,1640.0,1827.0,-187.0,Unexplained,,,0.0
+L1338,Houston,Bank branch,4770.0,895.0,1081.0,-186.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,358.0
+L0401,Dallas,Retail,7100.0,1473.0,1657.0,-184.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),764.0
+L0155,Atlanta,Retail,3940.0,859.0,1042.0,-183.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),466.0
+L1333,Houston,Retail,3840.0,1227.0,1410.0,-183.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,410.0
+L1939,Non-metro,Bank branch,2960.0,568.0,751.0,-183.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,300.0
+L0221,Dallas,Office,5210.0,1672.0,1855.0,-183.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,501.0
+L0323,Dallas,Restaurant,4700.0,2280.0,2462.0,-182.0,Over-frequency,Over-frequency,Align schedule to contract / need (inspection-driven),739.0
+L1258,Houston,Retail,8020.0,2355.0,2537.0,-182.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),714.0
+L0554,Charlotte,Medical,4020.0,956.0,1138.0,-182.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),663.0
+L0060,Atlanta,Restaurant,2440.0,1435.0,1616.0,-181.0,Vendor overpriced / under-delivering,Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,486.0
+L1465,Orlando,Restaurant,5370.0,2245.0,2425.0,-180.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,869.0
+L1838,Non-metro,Restaurant,9090.0,3270.0,3449.0,-179.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,878.0
+L1461,Orlando,Medical,3270.0,1414.0,1593.0,-179.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,457.0
+L1764,Non-metro,Retail,3490.0,1069.0,1247.0,-178.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,498.0
+L0202,Atlanta,Office,6920.0,2300.0,2475.0,-175.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,717.0
+L0583,Charlotte,Medical,3960.0,1583.0,1758.0,-175.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,641.0
+L1969,Non-metro,Bank branch,4410.0,755.0,930.0,-175.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,371.0
+L1842,Non-metro,Bank branch,2670.0,525.0,699.0,-174.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,328.0
+L1324,Houston,Retail,3860.0,808.0,980.0,-172.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),453.0
+L1792,Non-metro,Medical,2740.0,1108.0,1278.0,-170.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,483.0
+L1720,Non-metro,Office,4980.0,1443.0,1612.0,-169.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,588.0
+L0165,Atlanta,Office,3930.0,1467.0,1636.0,-169.0,Vendor too far,Vendor too far; Vendor overpriced / under-delivering,Reassign to nearest zone vendor (cluster),964.0
+L1960,Non-metro,Office,6100.0,1590.0,1757.0,-167.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,547.0
+L0291,Dallas,Medical,5430.0,1361.0,1527.0,-166.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),698.0
+L0587,Charlotte,Restaurant,4860.0,1370.0,1535.0,-165.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),716.0
+L1847,Non-metro,Retail,6700.0,1961.0,2125.0,-164.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,771.0
+L1873,Non-metro,Retail,6340.0,1755.0,1916.0,-161.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,540.0
+L1416,Orlando,Retail,5040.0,1673.0,1834.0,-161.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,628.0
+L1941,Non-metro,Retail,7940.0,2213.0,2373.0,-160.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,660.0
+L0921,Chicago,Retail,6430.0,2410.0,2570.0,-160.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,930.0
+L1563,Nashville,Retail,3790.0,1419.0,1579.0,-160.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,534.0
+L1823,Non-metro,Retail,3190.0,991.0,1149.0,-158.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,405.0
+L0534,Charlotte,Office,2760.0,1001.0,1159.0,-158.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,351.0
+L1048,Denver,Bank branch,6480.0,1277.0,1433.0,-156.0,Vendor overpriced / under-delivering,Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,325.0
+L1826,Non-metro,Bank branch,10540.0,1474.0,1629.0,-155.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,458.0
+L1888,Non-metro,Retail,6090.0,1690.0,1845.0,-155.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,652.0
+L0053,Atlanta,Office,6800.0,1520.0,1674.0,-154.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),573.0
+L1904,Non-metro,Restaurant,2620.0,835.0,988.0,-153.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),372.0
+L1541,Nashville,Retail,5890.0,1797.0,1950.0,-153.0,Over-frequency,Over-frequency,Align schedule to contract / need (inspection-driven),557.0
+L1972,Non-metro,Retail,7920.0,1977.0,2128.0,-151.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,639.0
+L1547,Nashville,Office,2600.0,650.0,799.0,-149.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),275.0
+L1762,Non-metro,Retail,3320.0,934.0,1083.0,-149.0,Over-frequency,Over-frequency,Align schedule to contract / need (inspection-driven),309.0
+L0438,Charlotte,Retail,2220.0,810.0,959.0,-149.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,209.0
+L0255,Dallas,Retail,4470.0,1478.0,1624.0,-146.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,434.0
+L0275,Dallas,Retail,4610.0,1413.0,1558.0,-145.0,Over-frequency,Over-frequency,Align schedule to contract / need (inspection-driven),445.0
+L0434,Charlotte,Office,5070.0,1492.0,1637.0,-145.0,Vendor overpriced / under-delivering,Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,501.0
+L0140,Atlanta,Retail,4850.0,1752.0,1896.0,-144.0,Vendor overpriced / under-delivering,Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,633.0
+L1811,Non-metro,Office,3420.0,1045.0,1188.0,-143.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,353.0
+L0454,Charlotte,Retail,4350.0,952.0,1094.0,-142.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),512.0
+L1422,Orlando,Office,3300.0,1088.0,1226.0,-138.0,Vendor overpriced / under-delivering,Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,350.0
+L1674,Non-metro,Bank branch,4100.0,704.0,842.0,-138.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,354.0
+L1857,Non-metro,Retail,2530.0,623.0,757.0,-134.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),263.0
+L1750,Non-metro,Medical,3500.0,1335.0,1469.0,-134.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,442.0
+L1759,Non-metro,Office,4380.0,1251.0,1385.0,-134.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,472.0
+L1513,Orlando,Bank branch,6980.0,1354.0,1487.0,-133.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),549.0
+L1092,Denver,Office,5090.0,1977.0,2110.0,-133.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,667.0
+L1927,Non-metro,Bank branch,4230.0,823.0,955.0,-132.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,363.0
+L1722,Non-metro,Medical,7410.0,2365.0,2495.0,-130.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,681.0
+L0380,Dallas,Bank branch,5570.0,659.0,788.0,-129.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),419.0
+L0077,Atlanta,Bank branch,7410.0,872.0,1001.0,-129.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),470.0
+L0394,Dallas,Bank branch,3770.0,442.0,570.0,-128.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),322.0
+L1244,Houston,Retail,4980.0,1654.0,1782.0,-128.0,Over-frequency,Over-frequency,Align schedule to contract / need (inspection-driven),509.0
+L0631,Phoenix,Office,3700.0,1369.0,1494.0,-125.0,Over-frequency,Over-frequency,Align schedule to contract / need (inspection-driven),560.0
+L0580,Charlotte,Retail,2470.0,601.0,726.0,-125.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),292.0
+L0025,Atlanta,Office,4260.0,858.0,982.0,-124.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),623.0
+L0411,Dallas,Office,4820.0,1076.0,1199.0,-123.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),440.0
+L1005,Denver,Retail,4040.0,1024.0,1147.0,-123.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),562.0
+L1101,Denver,Office,4020.0,1477.0,1599.0,-122.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,423.0
+L1552,Nashville,Medical,4430.0,1647.0,1769.0,-122.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,434.0
+L1362,Orlando,Bank branch,3850.0,419.0,541.0,-122.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),315.0
+L1998,Non-metro,Restaurant,2980.0,1330.0,1451.0,-121.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,479.0
+L0180,Atlanta,Bank branch,5900.0,1174.0,1294.0,-120.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,400.0
+L1700,Non-metro,Retail,5230.0,1383.0,1503.0,-120.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,427.0
+L1926,Non-metro,Medical,2710.0,699.0,818.0,-119.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),336.0
+L0684,Phoenix,Office,6150.0,1964.0,2083.0,-119.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,717.0
+L1845,Non-metro,Bank branch,5030.0,886.0,1005.0,-119.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,352.0
+L0770,Phoenix,Bank branch,6990.0,1464.0,1582.0,-118.0,Vendor overpriced / under-delivering,Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,520.0
+L0096,Atlanta,Office,5000.0,1159.0,1276.0,-117.0,Vendor overpriced / under-delivering,Underpriced; Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,1152.0
+L0428,Dallas,Retail,2410.0,638.0,755.0,-117.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),328.0
+L0184,Atlanta,Office,3820.0,1382.0,1498.0,-116.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,455.0
+L0172,Atlanta,Office,5400.0,1167.0,1280.0,-113.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),623.0
+L1948,Non-metro,Office,1500.0,370.0,482.0,-112.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),252.0
+L0337,Dallas,Retail,4060.0,833.0,945.0,-112.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),541.0
+L0634,Phoenix,Office,3600.0,930.0,1041.0,-111.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),389.0
+L1738,Non-metro,Bank branch,2790.0,504.0,615.0,-111.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,204.0
+L0854,Chicago,Office,4850.0,1842.0,1952.0,-110.0,Vendor overpriced / under-delivering,Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,490.0
+L0399,Dallas,Restaurant,2110.0,1233.0,1342.0,-109.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,384.0
+L1983,Non-metro,Bank branch,3860.0,708.0,814.0,-106.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,307.0
+L0065,Atlanta,Office,2450.0,1028.0,1134.0,-106.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,332.0
+L1956,Non-metro,Bank branch,3830.0,716.0,822.0,-106.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,298.0
+L0153,Atlanta,Office,4070.0,1411.0,1516.0,-105.0,Vendor overpriced / under-delivering,Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,368.0
+L1733,Non-metro,Medical,7690.0,2643.0,2747.0,-104.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,870.0
+L1522,Nashville,Office,4790.0,1095.0,1199.0,-104.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),483.0
+L1451,Orlando,Retail,3680.0,1174.0,1276.0,-102.0,Vendor overpriced / under-delivering,Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,249.0
+L0135,Atlanta,Office,3830.0,866.0,968.0,-102.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),512.0
+L0607,Charlotte,Bank branch,4020.0,778.0,879.0,-101.0,Unexplained,,,0.0
+L0008,Atlanta,Office,10900.0,3552.0,3649.0,-97.0,Over-frequency,Over-frequency,Align schedule to contract / need (inspection-driven),1043.0
+L0959,Chicago,Office,5630.0,2053.0,2150.0,-97.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),607.0
+L0244,Dallas,Restaurant,3170.0,1088.0,1184.0,-96.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),543.0
+L1712,Non-metro,Bank branch,7660.0,1224.0,1320.0,-96.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,418.0
+L0119,Atlanta,Office,2490.0,976.0,1071.0,-95.0,Over-frequency,Over-frequency,Align schedule to contract / need (inspection-driven),402.0
+L0903,Chicago,Retail,5530.0,1549.0,1644.0,-95.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),509.0
+L1146,Denver,Office,2170.0,625.0,720.0,-95.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),388.0
+L1891,Non-metro,Retail,13390.0,3477.0,3571.0,-94.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,896.0
+L0259,Dallas,Retail,2720.0,749.0,842.0,-93.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),235.0
+L1603,Nashville,Office,4990.0,1545.0,1638.0,-93.0,Vendor overpriced / under-delivering,Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,513.0
+L0421,Dallas,Retail,4720.0,1519.0,1611.0,-92.0,Vendor overpriced / under-delivering,Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,523.0
+L1973,Non-metro,Restaurant,5180.0,2123.0,2215.0,-92.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,720.0
+L1343,Houston,Bank branch,7620.0,1349.0,1439.0,-90.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,457.0
+L1773,Non-metro,Bank branch,6230.0,1062.0,1150.0,-88.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,411.0
+L1932,Non-metro,Office,5150.0,1384.0,1472.0,-88.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,387.0
+L1681,Non-metro,Office,8430.0,2200.0,2287.0,-87.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,690.0
+L1379,Orlando,Medical,8960.0,2988.0,3074.0,-86.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,740.0
+L1985,Non-metro,Retail,10810.0,2641.0,2727.0,-86.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,795.0
+L1725,Non-metro,Retail,5440.0,1543.0,1625.0,-82.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,446.0
+L0998,Chicago,Office,5540.0,2069.0,2151.0,-82.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,633.0
+L1100,Denver,Medical,4070.0,1756.0,1838.0,-82.0,Over-frequency,Over-frequency,Align schedule to contract / need (inspection-driven),460.0
+L0181,Atlanta,Retail,3310.0,1302.0,1382.0,-80.0,Vendor overpriced / under-delivering,Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,324.0
+L0667,Phoenix,Bank branch,4130.0,962.0,1042.0,-80.0,Over-frequency,Over-frequency,Align schedule to contract / need (inspection-driven),417.0
+L0039,Atlanta,Bank branch,7650.0,1387.0,1466.0,-79.0,Vendor overpriced / under-delivering,Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,432.0
+L1670,Non-metro,Bank branch,3110.0,580.0,659.0,-79.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,210.0
+L1510,Orlando,Medical,9370.0,3294.0,3371.0,-77.0,Over-frequency,Over-frequency,Align schedule to contract / need (inspection-driven),843.0
+L1961,Non-metro,Retail,4270.0,1185.0,1260.0,-75.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,365.0
+L1852,Non-metro,Restaurant,4810.0,1822.0,1896.0,-74.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,465.0
+L1704,Non-metro,Retail,8820.0,2208.0,2280.0,-72.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,532.0
+L0373,Dallas,Office,8630.0,1725.0,1796.0,-71.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),834.0
+L1286,Houston,Office,3510.0,1168.0,1239.0,-71.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,312.0
+L0107,Atlanta,Office,8190.0,1685.0,1756.0,-71.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),780.0
+L1785,Non-metro,Bank branch,5610.0,857.0,928.0,-71.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,282.0
+L0210,Atlanta,Retail,5930.0,2107.0,2177.0,-70.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),760.0
+L1156,Denver,Bank branch,4790.0,1068.0,1138.0,-70.0,Vendor overpriced / under-delivering,Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,332.0
+L1491,Orlando,Bank branch,5060.0,1034.0,1102.0,-68.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,287.0
+L0127,Atlanta,Retail,3860.0,995.0,1063.0,-68.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),413.0
+L1703,Non-metro,Retail,4050.0,1311.0,1378.0,-67.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,438.0
+L1657,Nashville,Restaurant,3030.0,922.0,989.0,-67.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),614.0
+L1133,Denver,Medical,3170.0,1181.0,1246.0,-65.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),408.0
+L0205,Atlanta,Retail,4740.0,1221.0,1285.0,-64.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),413.0
+L1940,Non-metro,Retail,4240.0,1207.0,1270.0,-63.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,334.0
+L1882,Non-metro,Bank branch,7080.0,1173.0,1233.0,-60.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,322.0
+L1885,Non-metro,Office,2680.0,883.0,942.0,-59.0,Over-frequency,Over-frequency,Align schedule to contract / need (inspection-driven),269.0
+L1096,Denver,Retail,3320.0,996.0,1055.0,-59.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),385.0
+L1754,Non-metro,Bank branch,7610.0,1201.0,1258.0,-57.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,341.0
+L1633,Nashville,Restaurant,13710.0,5521.0,5577.0,-56.0,Over-frequency,Over-frequency,Align schedule to contract / need (inspection-driven),1673.0
+L0422,Dallas,Retail,4180.0,1348.0,1403.0,-55.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,316.0
+L0375,Dallas,Medical,5600.0,1479.0,1533.0,-54.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),643.0
+L1856,Non-metro,Restaurant,6700.0,2295.0,2349.0,-54.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,543.0
+L1913,Non-metro,Medical,5210.0,1839.0,1891.0,-52.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,621.0
+L0404,Dallas,Bank branch,4850.0,716.0,766.0,-50.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),243.0
+L0402,Dallas,Office,2750.0,776.0,824.0,-48.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),239.0
+L0282,Dallas,Office,2810.0,613.0,660.0,-47.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),440.0
+L0093,Atlanta,Bank branch,8200.0,1552.0,1598.0,-46.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,416.0
+L1984,Non-metro,Bank branch,3070.0,615.0,660.0,-45.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,234.0
+L1373,Orlando,Bank branch,2730.0,367.0,410.0,-43.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),202.0
+L1682,Non-metro,Restaurant,10540.0,3893.0,3936.0,-43.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,1163.0
+L0260,Dallas,Restaurant,5150.0,1794.0,1837.0,-43.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),639.0
+L1017,Denver,Restaurant,3510.0,1946.0,1987.0,-41.0,Vendor overpriced / under-delivering,Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,611.0
+L0195,Atlanta,Office,4260.0,1536.0,1576.0,-40.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,574.0
+L1607,Nashville,Bank branch,10500.0,1292.0,1331.0,-39.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),469.0
+L0351,Dallas,Office,5340.0,1793.0,1832.0,-39.0,Over-frequency,Over-frequency,Align schedule to contract / need (inspection-driven),523.0
+L1204,Houston,Office,2440.0,940.0,978.0,-38.0,Vendor overpriced / under-delivering,"Scope creep, not billed; Vendor overpriced / under-delivering",Pay geofence-verified hours + quality bonus; rebid,556.0
+L1550,Nashville,Medical,3460.0,885.0,923.0,-38.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),556.0
+L0370,Dallas,Office,7880.0,2595.0,2631.0,-36.0,Vendor overpriced / under-delivering,Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,764.0
+L0253,Dallas,Medical,2840.0,1254.0,1287.0,-33.0,Over-frequency,Over-frequency,Align schedule to contract / need (inspection-driven),322.0
+L0177,Atlanta,Retail,3580.0,957.0,988.0,-31.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),325.0
+L0281,Dallas,Office,5750.0,1853.0,1883.0,-30.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),503.0
+L1781,Non-metro,Retail,5740.0,1583.0,1612.0,-29.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,476.0
+L0022,Atlanta,Restaurant,3350.0,1225.0,1254.0,-29.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),440.0
+L1259,Houston,Retail,2340.0,566.0,595.0,-29.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),325.0
+L1812,Non-metro,Medical,6420.0,2168.0,2196.0,-28.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,562.0
+L0517,Charlotte,Bank branch,8640.0,1574.0,1601.0,-27.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,418.0
+L0869,Chicago,Office,2120.0,581.0,608.0,-27.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),386.0
+L1619,Nashville,Retail,6110.0,1731.0,1757.0,-26.0,Vendor overpriced / under-delivering,"Scope creep, not billed; Vendor overpriced / under-delivering",Pay geofence-verified hours + quality bonus; rebid,1028.0
+L1640,Nashville,Retail,3020.0,1074.0,1098.0,-24.0,Over-frequency,Over-frequency,Align schedule to contract / need (inspection-driven),314.0
+L1797,Non-metro,Restaurant,5400.0,2257.0,2281.0,-24.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,666.0
+L0016,Atlanta,Restaurant,5610.0,2510.0,2533.0,-23.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,752.0
+L0073,Atlanta,Bank branch,5960.0,1208.0,1231.0,-23.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),325.0
+L1511,Orlando,Retail,3260.0,739.0,761.0,-22.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),398.0
+L1544,Nashville,Retail,1890.0,817.0,839.0,-22.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,191.0
+L0266,Dallas,Office,1580.0,749.0,768.0,-19.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,130.0
+L0444,Charlotte,Restaurant,5530.0,2450.0,2468.0,-18.0,Vendor overpriced / under-delivering,Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,786.0
+L1758,Non-metro,Retail,7370.0,2138.0,2156.0,-18.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,577.0
+L0325,Dallas,Restaurant,7280.0,3242.0,3258.0,-16.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,906.0
+L0815,Chicago,Retail,2050.0,708.0,724.0,-16.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),252.0
+L1802,Non-metro,Office,6090.0,1705.0,1719.0,-14.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,510.0
+L1787,Non-metro,Bank branch,7150.0,1222.0,1235.0,-13.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,333.0
+L0173,Atlanta,Bank branch,3850.0,839.0,851.0,-12.0,Vendor overpriced / under-delivering,Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,293.0
+L0070,Atlanta,Bank branch,5550.0,1193.0,1204.0,-11.0,Vendor too far,Vendor too far,Reassign to nearest zone vendor (cluster),373.0
+L0494,Charlotte,Bank branch,3550.0,769.0,780.0,-11.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,255.0
+L0278,Dallas,Office,4060.0,1394.0,1403.0,-9.0,Vendor overpriced / under-delivering,Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,300.0
+L0603,Charlotte,Bank branch,3490.0,694.0,699.0,-5.0,Vendor overpriced / under-delivering,Vendor overpriced / under-delivering,Pay geofence-verified hours + quality bonus; rebid,200.0
+L0342,Dallas,Bank branch,5500.0,1086.0,1090.0,-4.0,"Scope creep, not billed","Scope creep, not billed",Bill added scope as change orders; lock scope in Peazy,306.0
+L1851,Non-metro,Restaurant,5280.0,2034.0,2037.0,-3.0,Remote site,Remote site,Travel surcharge or bundle into a route; exit if still negative,524.0
+L1843,Non-metro,Bank branch,3530.0,476.0,478.0,-2.0,Underpriced,Underpriced,Reprice at renewal to benchmark (wage x sqft x frequency),177.0

@@ -1,0 +1,7 @@
+cause,planted,flagged,precision,recall
+Underpriced,154,154,1.0,1.0
+"Scope creep, not billed",116,122,0.95,1.0
+Over-frequency,77,68,1.0,0.88
+Remote site,195,195,1.0,1.0
+Vendor too far,109,107,1.0,0.98
+Vendor overpriced / under-delivering,100,100,1.0,1.0
